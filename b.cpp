@@ -1,1 +1,1 @@
-anh quoc dep trai vai dai
+anh quoc khong dep trai lam
